@@ -1,7 +1,21 @@
 
 {
   "Version": "1.0",
- "Files":
+  "Ignore":
+[
+"Cubes/Views",
+"Cubes",
+"Chores",
+"Processes",
+"!Cubes('test14')",
+"!Cubes('PNLCube')",
+"!Dimensions('}Clients')",
+"!Processes('savedata1')",
+"Chores('test1')",
+"Dimensions('mea*')"
+
+],
+"Files":
 [
     "/}Applications/*",
     "/}Externals/*"
