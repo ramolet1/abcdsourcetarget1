@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"test15",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Currency')"
+		},
+		{
+			"@id":"Dimensions('month')"
+		}
+	],
+	"Views@Code.links":[]
+}

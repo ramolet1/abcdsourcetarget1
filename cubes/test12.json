@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"test12",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('account2')"
+		},
+		{
+			"@id":"Dimensions('actvsbud')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"test12.views/Default.json"
+	]
+}
