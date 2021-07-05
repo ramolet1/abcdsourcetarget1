@@ -5,12 +5,12 @@
 [
 "Cubes/Views",
 "Cubes",
+"Chores",
 "Processes",
 "!Cubes('test14')",
 "!Cubes('PNLCube')",
 "!Dimensions('}Clients')",
-"Processes('Not Include1')",
-"Processes('Not Include')",
+"!Processes('savedata1')",
 "Chores('test1')",
 "Dimensions('mea*')"
 

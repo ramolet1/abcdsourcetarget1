@@ -1,0 +1,11 @@
+{
+	"@type":"Process",
+	"Name":"savedata1",
+	"Code@Code.link":"savedata1.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":[],
+	"Variables":[]
+}
