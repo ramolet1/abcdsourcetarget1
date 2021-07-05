@@ -1,0 +1,19 @@
+{
+	"@type":"Process",
+	"Name":"savedata2",
+	"Code@Code.link":"savedata2.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"Name":"P0",
+			"Prompt":"",
+			"Value":0,
+			"Type":"Numeric"
+		}
+	],
+	"Variables":[]
+}

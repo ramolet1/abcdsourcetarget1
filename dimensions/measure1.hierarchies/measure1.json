@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"measure1",
+	"Elements":
+	[
+		{
+			"Name":"m1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"m2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"m3",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}
