@@ -1,0 +1,127 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Country",
+	"Elements":
+	[
+		{
+			"Name":"India",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Americas",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"United States",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Asia Pacific",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Australia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"China",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Japan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Europe",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Germany",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"United Kingdom",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Switzerland",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total of  Country",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Americas",
+			"ComponentName":"Canada",
+			"Weight":1
+		},
+		{
+			"ParentName":"Americas",
+			"ComponentName":"United States",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia Pacific",
+			"ComponentName":"Australia",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia Pacific",
+			"ComponentName":"China",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia Pacific",
+			"ComponentName":"Japan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Europe",
+			"ComponentName":"France",
+			"Weight":1
+		},
+		{
+			"ParentName":"Europe",
+			"ComponentName":"Germany",
+			"Weight":1
+		},
+		{
+			"ParentName":"Europe",
+			"ComponentName":"United Kingdom",
+			"Weight":1
+		},
+		{
+			"ParentName":"Europe",
+			"ComponentName":"Switzerland",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total of  Country",
+			"ComponentName":"Americas",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total of  Country",
+			"ComponentName":"Asia Pacific",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total of  Country",
+			"ComponentName":"Europe",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

@@ -1,0 +1,15 @@
+{
+	"@type":"Cube",
+	"Name":"test14",
+	"Rules@Code.link":"test14.rules",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('actvsbud')"
+		},
+		{
+			"@id":"Dimensions('Country')"
+		}
+	],
+	"Views@Code.links":[]
+}
