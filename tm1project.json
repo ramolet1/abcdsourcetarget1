@@ -1,6 +1,10 @@
 
 {
   "Version": "1.0",
+  "Files":
+[
+    "/}Applications/PNL new*"
+],
   "Ignore":
 [
 "Cubes/Views",
@@ -15,10 +19,7 @@
 "Dimensions('mea*')"
 
 ],
-"Files":
-[
-    "/}Applications/PNL new*"
-],
+
    "Deployment": {},
   "PrePull": [],
   "PostPull": [],
