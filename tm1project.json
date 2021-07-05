@@ -3,7 +3,8 @@
   "Version": "1.0",
  "Files":
 [
-    "/}Applications/PNL new*"
+    "/}Applications/PNL new*",
+    "/testing"
 ],
    "Deployment": {},
   "PrePull": [],
