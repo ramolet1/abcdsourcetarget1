@@ -1,10 +1,19 @@
 
 {
   "Version": "1.0",
-"Files":
+  "Ignore":
 [
-    "/}Applications/*",
-    "/}Externals/*"
+"Cubes/Views",
+"Cubes",
+"Chores",
+"Processes",
+"!Cubes('test14')",
+"!Cubes('PNLCube')",
+"!Dimensions('}Clients')",
+"!Processes('savedata1')",
+"Chores('test1')",
+"Dimensions('mea*')"
+
 ],
    "Deployment": {},
   "PrePull": [],
