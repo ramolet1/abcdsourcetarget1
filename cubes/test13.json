@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"test13",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Country')"
+		},
+		{
+			"@id":"Dimensions('measure1')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"test13.views/Default.json"
+	]
+}

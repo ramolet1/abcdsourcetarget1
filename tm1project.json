@@ -1,25 +1,10 @@
 
 {
   "Version": "1.0",
-  "Files":
+ "Files":
 [
     "/}Applications/PNL new*"
 ],
-  "Ignore":
-[
-"Cubes/Views",
-"Cubes",
-"Chores",
-"Processes",
-"!Cubes('test14')",
-"!Cubes('PNLCube')",
-"!Dimensions('}Clients')",
-"!Processes('savedata1')",
-"Chores('test1')",
-"Dimensions('mea*')"
-
-],
-
    "Deployment": {},
   "PrePull": [],
   "PostPull": [],
