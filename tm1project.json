@@ -15,10 +15,6 @@
 "Dimensions('mea*')"
 
 ],
-"Files":
-[
-    "/}Applications/PNL new*"
-],
    "Deployment": {},
   "PrePull": [],
   "PostPull": [],
